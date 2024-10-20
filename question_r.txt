@@ -1,0 +1,6 @@
+AGID|Come si implementa il piano di backup secondo AGID?
+Rete Ateneo|Come si gestisce il capacity planning della rete?
+Sistemi Operativi|Come si implementa il software deployment?
+Identità Digitale|Come si gestisce il password policy?
+Laboratori|Come si implementa il thin client nei laboratori?
+Asset Management|Come si gestisce l'obsolescenza degli asset?
